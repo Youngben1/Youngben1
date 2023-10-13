@@ -8,7 +8,7 @@ I am conversant with HTML, CSS and Javascript. I mainly use React and NextJS. I 
 
 
 * ✉️  You can contact me at [benjaminrenny@gmail.com](mailto:benjaminrenny@gmail.com)
-* 🧠  I'm learning Typescript and Python
+* 🧠  I'm learning Typescript and Python and Node JS
 
 ### Skills
 
