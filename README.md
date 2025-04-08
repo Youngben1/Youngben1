@@ -8,7 +8,7 @@ I am conversant with HTML, CSS and Javascript. I mainly use React and NextJS and
 
 
 * ✉️  You can contact me at [benjaminrenny@gmail.com](mailto:benjaminrenny@gmail.com)
-* 🧠  I'm learning Python and NodeJS an Reat Native at the moment alongside 2 Python frameworks: Flask and Django.
+* 🧠  I'm learning Python and NodeJS and React Native at the moment alongside 2 Python frameworks: Flask and Django.
 
 ### Skills
 
