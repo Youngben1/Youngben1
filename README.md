@@ -1,14 +1,14 @@
 Hi 👋 My name is Benjamin Renny
 ===============================
 
-Front End Web Developer
+Front End and Mobile Developer
 -----------------------
 
-I am conversant with HTML, CSS and Javascript. I mainly use React and NextJS and VueJS. I like to use Tailwind, also have knowledge using styled components, chakra UI and vanilla CSS.
+I am conversant with HTML, CSS and Javascript. I mainly use React and NextJS and React Native. I use Tailwind, also have knowledge using styled components, chakra UI and vanilla CSS.
 
 
 * ✉️  You can contact me at [benjaminrenny@gmail.com](mailto:benjaminrenny@gmail.com)
-* 🧠  I'm learning Python and NodeJS and React Native at the moment alongside 2 Python frameworks: Flask and Django.
+* 🧠  I'm learning how to play chess and I like to read books and swim
 
 ### Skills
 
